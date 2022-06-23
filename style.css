@@ -1,0 +1,22 @@
+.image {
+ height: 150px;
+ ;
+}
+body {
+    background-image: url(Images/Background.jpg);
+    background-repeat: repeat-x;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1 {
+    text-align: center;
+}
+li a:hover {
+    background-color: #111111;
+    float: left;
+}
+.link {
+    font-size: x-large;
+    color: white;
+    font-weight: bold;
+}
